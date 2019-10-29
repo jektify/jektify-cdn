@@ -1,6 +1,14 @@
-Path CDNs: https://cdn.jsdelivr.net/gh/jektify/jektify@latest/cdn/
+## Using
 
 
-The CDNs of this plugin are maintained by: https://jsdelivr.com/
+Using the stable version:
 
-Thanks Jsdelivr <3
+```html
+<script src="https://cdn.jsdelivr.net/gh/jektify/jektify-cdn/stable/jektify.min.js"></script>
+```
+
+Specifying a version:
+
+```html
+<script src="https://cdn.jsdelivr.net/gh/jektify/jektify-cdn/<VERSION>/jektify.min.js"></script>
+```
